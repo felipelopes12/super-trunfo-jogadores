@@ -1,17 +1,19 @@
 
-## 💻 Super Trunfo - Jogadores
-Duelo de cartas aleatórias de jogadores , quem tiver mais overall ganha, o objetivo é ganhar da maquina.🎮
+## 🎮 Super Trunfo - Jogadores
+Duelo de cartas aleatórias de jogadores , quem tiver mais overall ganha, o objetivo é ganhar da maquina.
 <p align="center">
 <img width="100%" src="img/Principal.PNG">
 </p>
 
 ## ⚽ Cartas
 
-- A carta curinga(mais forte do jogo) "Ronaldo Fenomeno",
+- A carta curinga(mais forte do jogo) "Ronaldo Fenomeno"
+  ataque: 100 / magia: 97
   <h1 align="center">
-  <img alt="Ronaldo Jogador" title="Ronaldo Jogador" src="img/ronaldo.JPG" width="220px" />
+  <img alt="Ronaldo Jogador" title="Ronaldo Jogador" src="img/ronaldo.jpg" width="220px" />
 </h1>
-    ataque: 100 / magia: 97 <br>
+
+    <br>
 
 - No jogo tem cartas de jogadores da atualidades e jogadores ja aposentados, idolos em clubes que ja passaram..
 
