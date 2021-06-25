@@ -14,7 +14,7 @@ Duelo de cartas aleatórias de jogadores , quem tiver mais overall ganha, o obje
 </h1>
 
  
-- No jogo tem cartas de jogadores da atualidade e jogadores ja aposentados, ídolos em clubes que ja passaram.<br>
+- No jogo tem cartas de jogadores da atualidade e jogadores aposentados, ídolos em clubes que ja passaram.<br>
 
 ## 🔗 Criado em CodePen<br>
 
