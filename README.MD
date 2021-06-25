@@ -13,11 +13,8 @@ Duelo de cartas aleatórias de jogadores , quem tiver mais overall ganha, o obje
   <img alt="Ronaldo Jogador" title="Ronaldo Jogador" src="img/ronaldo.jpg" width="220px" />
 </h1>
 
-    <br>
-
-- No jogo tem cartas de jogadores da atualidades e jogadores ja aposentados, idolos em clubes que ja passaram..
-
-<br>
+ 
+- No jogo tem cartas de jogadores da atualidades e jogadores ja aposentados, idolos em clubes que ja passaram.<br>
 
 ## 🔗 Criado em CodePen<br>
 
