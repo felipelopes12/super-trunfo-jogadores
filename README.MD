@@ -7,14 +7,14 @@ Duelo de cartas aleatórias de jogadores , quem tiver mais overall ganha, o obje
 
 ## ⚽ Cartas
 
-- A carta curinga(mais forte do jogo) "Ronaldo Fenomeno"
+- A carta curinga(mais forte do jogo) "Ronaldo Fenomeno"<br />
   ataque: 100 / magia: 97
   <h1 align="center">
   <img alt="Ronaldo Jogador" title="Ronaldo Jogador" src="img/ronaldo.jpg" width="220px" />
 </h1>
 
  
-- No jogo tem cartas de jogadores da atualidades e jogadores ja aposentados, idolos em clubes que ja passaram.<br>
+- No jogo tem cartas de jogadores da atualidade e jogadores ja aposentados, ídolos em clubes que ja passaram.<br>
 
 ## 🔗 Criado em CodePen<br>
 
