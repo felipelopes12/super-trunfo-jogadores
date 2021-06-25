@@ -9,7 +9,7 @@ Duelo de cartas aleatórias de jogadores , quem tiver mais overall ganha, o obje
 
 - A carta curinga(mais forte do jogo) "Ronaldo Fenomeno",
   <h1 align="center">
-  <img alt="Ronaldo Jogador" title="Ronaldo Jogador" src="img/ronaldo.PNG" width="220px" />
+  <img alt="Ronaldo Jogador" title="Ronaldo Jogador" src="img/ronaldo.JPG" width="220px" />
 </h1>
     ataque: 100 / magia: 97 <br>
 
@@ -20,7 +20,7 @@ Duelo de cartas aleatórias de jogadores , quem tiver mais overall ganha, o obje
 ## 🔗 Criado em CodePen<br>
 
 Projeto feito na semana Imersão DEV da Alura. 🏆 [Saiba mais!](https://imersao.dev/)
-⌨<br />
+<br />
 ------
 Copyright (c) 2021 by Amadeu Filipe Lopes (https://codepen.io/felipelopes12/pen/YzNpLvq)
 
